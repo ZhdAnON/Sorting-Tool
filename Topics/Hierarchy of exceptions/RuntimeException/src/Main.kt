@@ -1,0 +1,1 @@
+val result = 10 / 0

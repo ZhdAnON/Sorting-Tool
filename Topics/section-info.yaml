@@ -1,0 +1,20 @@
+content:
+- Arrays
+- String arrays
+- The main() function
+- Nullable and non-nullable types
+- Type system
+- For loop and arrays
+- Multi-dimensional array
+- Map
+- Set
+- Mutable Set
+- Mutable Map
+- Recursion
+- Taming exceptions
+- Hierarchy of exceptions
+- The try-catch statement
+- The try-catch-finally statement
+- Functions as objects
+- Lambda expressions
+- Writing files

@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: no option is correct
+- text: this function calls itself
+- text: this fucntion calls another function.
+- text: this function does not use any other functions
+- text: this function calls another function as it's last action
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13602#comment
+status: Solved
+record: -1
+custom_name: But what *is* recursion?.
